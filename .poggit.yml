@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Firegamer2647/redstone-and-command-block
+build-by-default: true
+branches:
+- main
+projects: []
+...
