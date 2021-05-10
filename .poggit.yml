@@ -2,5 +2,5 @@
 build-by-default: true
 branches:
 - main
-projects: []
+projects: [command-block-and-redstone]
 ...
